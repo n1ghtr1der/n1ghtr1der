@@ -1,4 +1,4 @@
-<h4 align="left">Hi! My name is Emirton and I'm a Telecommunications Engineering Student, from Fortaleza - CE</h4>
+<h4 align="left">Hi! My name is Emirton and I'm a Telecommunications Engineering Student</h4>
 
 ###
 
