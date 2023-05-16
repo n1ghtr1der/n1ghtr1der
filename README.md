@@ -1,4 +1,4 @@
-<h4 align="left">Hi! My name is Emirton and I'm a Front-End Developer, from Fortaleza - CE</h4>
+<h4 align="left">Hi! My name is Emirton and I'm a Front-End Developer and DevOps student, from Fortaleza - CE</h4>
 
 ###
 
