@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋, I'm Emirton</h3>
 <h3 align="left">I'm a DevOps intern and Information Systems undergraduate, from Fortaleza - CE</h3>
 
-- 🔭 I’m currently working at **IREDE**
+- 🔭 I’m currently working at **Mundiale**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
